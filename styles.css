@@ -3,6 +3,15 @@
   padding:0px;
 }
 
+head, body, p {
+  background-color:#ffd11a;
+}
+/* added this to change the background color */
+
+img {
+  width:
+}
+
 #octocat {
   display: block;
   width:384px;
